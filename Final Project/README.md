@@ -12,3 +12,10 @@ Machine Learning Final Project: Defining and Solving a Real-World ML Problem
 I selected the World Happiness Report dataset and framed the problem as:
 * “Can we predict a country’s happiness score (Life Ladder) based on socioeconomic indicators?”
 
+Results:
+* GDP per capita, social support, and healthy life expectancy are consistently the most influential factors in predicting a country’s happiness score
+  * Among these, social support emerged as the strongest predictor
+  * --> conomic strength alone does not guarantee happiness—strong community networks and trust in social institutions play an even more critical role
+* Countries with high levels of generosity and freedom to make life choices also tended to rank higher in happiness
+  * Personal autonomy and civic engagement are vital in overall well-being
+* Conversely: high levels of perceived corruption corresonded to a lower happiness score
